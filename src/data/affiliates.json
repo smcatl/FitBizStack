@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "slug": "kilo",
+    "name": "Kilo",
+    "url": "https://www.kilo.com/",
+    "commission": "30–40% recurring (12-month window — NOT lifetime)",
+    "network": "direct",
+    "status": "pending",
+    "category": "gym-marketing",
+    "notes": "Highest %, but capped at 12 months. Apply: https://www.kilo.com/affiliate"
+  },
+  {
+    "slug": "glofox",
+    "name": "Glofox",
+    "url": "https://www.glofox.com/",
+    "commission": "25% recurring (lifetime)",
+    "network": "direct",
+    "status": "pending",
+    "category": "gym-management",
+    "notes": "Standard partner rate. Higher tiers available for agencies. Apply: https://www.glofox.com/partners"
+  },
+  {
+    "slug": "wodify",
+    "name": "Wodify",
+    "url": "https://www.wodify.com/",
+    "commission": "20% recurring (lifetime — must stay active partner)",
+    "network": "direct",
+    "status": "pending",
+    "category": "gym-management",
+    "notes": "CrossFit and functional fitness focus. Lifetime of client conditional on partner staying active. Apply: https://www.wodify.com/partners"
+  },
+  {
+    "slug": "pushpress",
+    "name": "PushPress",
+    "url": "https://www.pushpress.com/",
+    "commission": "20% recurring (lifetime)",
+    "network": "direct",
+    "status": "pending",
+    "category": "gym-management",
+    "notes": "Continues for life of paying customer. Apply: https://www.pushpress.com/affiliate"
+  },
+  {
+    "slug": "teamup",
+    "name": "TeamUp",
+    "url": "https://goteamup.com/",
+    "commission": "20% recurring (verified lifetime)",
+    "network": "direct",
+    "status": "pending",
+    "category": "gym-management",
+    "notes": "Verified lifetime recurring on monthly subscription fees. Apply: https://goteamup.com/partners/"
+  },
+  {
+    "slug": "zenplanner",
+    "name": "Zen Planner",
+    "url": "https://zenplanner.com/",
+    "commission": "15–20% recurring (lifetime — tiered)",
+    "network": "direct",
+    "status": "pending",
+    "category": "gym-management",
+    "notes": "15% for first 5 referrals, then 20% for life. Apply: https://zenplanner.com/partner-program/"
+  },
+  {
+    "slug": "trainerize",
+    "name": "Trainerize",
+    "url": "https://www.trainerize.com/",
+    "commission": "15% recurring (lifetime — incl. add-ons)",
+    "network": "direct",
+    "status": "pending",
+    "category": "personal-training",
+    "notes": "Paid on all subscriptions and recurring add-ons for the life of the user. Apply: https://www.trainerize.com/partners/"
+  },
+  {
+    "slug": "mindbody",
+    "name": "Mindbody",
+    "url": "https://www.mindbodyonline.com/",
+    "commission": "15% recurring (often capped at 12 months)",
+    "network": "direct",
+    "status": "pending",
+    "category": "gym-management",
+    "notes": "NOT lifetime — typically capped at first 12 months or initial service booked. Apply: https://www.mindbodyonline.com/partners"
+  },
+  {
+    "slug": "abcfitness",
+    "name": "ABC Fitness",
+    "url": "https://abcfitness.com/",
+    "commission": "$300–$800 bounty (one-time per location)",
+    "network": "direct",
+    "status": "pending",
+    "category": "gym-management",
+    "notes": "Bounty only, no recurring. One-time payment per new location signup. Apply: https://abcfitness.com/partners"
+  }
+]

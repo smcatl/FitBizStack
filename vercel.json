@@ -5,18 +5,48 @@
   "framework": "astro",
   "redirects": [
     {
-      "source": "/recommends/gohighlevel",
-      "destination": "https://www.gohighlevel.com/?fp_ref=example",
+      "source": "/recommends/kilo",
+      "destination": "https://www.kilo.com/",
       "permanent": false
     },
     {
-      "source": "/recommends/aweber",
-      "destination": "https://aweber.com/?id=example",
+      "source": "/recommends/glofox",
+      "destination": "https://www.glofox.com/",
       "permanent": false
     },
     {
-      "source": "/recommends/kinsta",
-      "destination": "https://kinsta.com/?kaid=example",
+      "source": "/recommends/wodify",
+      "destination": "https://www.wodify.com/",
+      "permanent": false
+    },
+    {
+      "source": "/recommends/pushpress",
+      "destination": "https://www.pushpress.com/",
+      "permanent": false
+    },
+    {
+      "source": "/recommends/teamup",
+      "destination": "https://goteamup.com/",
+      "permanent": false
+    },
+    {
+      "source": "/recommends/zenplanner",
+      "destination": "https://zenplanner.com/",
+      "permanent": false
+    },
+    {
+      "source": "/recommends/trainerize",
+      "destination": "https://www.trainerize.com/",
+      "permanent": false
+    },
+    {
+      "source": "/recommends/mindbody",
+      "destination": "https://www.mindbodyonline.com/",
+      "permanent": false
+    },
+    {
+      "source": "/recommends/abcfitness",
+      "destination": "https://abcfitness.com/",
       "permanent": false
     }
   ],
