@@ -1,0 +1,33 @@
+---
+/**
+ * SiteMark — fitbizstack
+ * Per-site override of stackbase's default bar-stack mark.
+ * The outer div keeps the .nav-logo-mark class so global.css 52x52
+ * dimensions apply. Per-site brand.css clears the default navy bg
+ * and stretches the SVG to fill.
+ */
+interface Props {
+  class?: string;
+  style?: string;
+}
+const { class: className = '', style } = Astro.props;
+---
+{style ? (
+  <div class:list={['nav-logo-mark', 'site-mark', className]} aria-hidden="true" style={style}>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <rect width="32" height="32" rx="4" fill="#0D1B0F"/>
+  <path d="M9 24 L18 8" stroke="#4CAF50" stroke-width="3.2" stroke-linecap="square"/>
+  <path d="M14 24 L23 8" stroke="#2E7D32" stroke-width="3.2" stroke-linecap="square"/>
+  <rect x="3" y="29" width="26" height="1.5" fill="#4CAF50" opacity="0.5"/>
+</svg>
+  </div>
+) : (
+  <div class:list={['nav-logo-mark', 'site-mark', className]} aria-hidden="true">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <rect width="32" height="32" rx="4" fill="#0D1B0F"/>
+  <path d="M9 24 L18 8" stroke="#4CAF50" stroke-width="3.2" stroke-linecap="square"/>
+  <path d="M14 24 L23 8" stroke="#2E7D32" stroke-width="3.2" stroke-linecap="square"/>
+  <rect x="3" y="29" width="26" height="1.5" fill="#4CAF50" opacity="0.5"/>
+</svg>
+  </div>
+)}
