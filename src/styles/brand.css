@@ -1,0 +1,83 @@
+/*
+ * FitBizStack — Performance
+ * Deep forest + electric green. Energy/motion. Forward-leaning slashes,
+ * speed lines, rep-counter rhythm.
+ */
+
+.site-mark {
+  background: transparent !important;
+  padding: 0 !important;
+  overflow: hidden;
+}
+.site-mark svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+  border-radius: 4px;
+}
+
+.fb-wordmark .nav-logo-text {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 700;
+  font-size: 1.7rem;
+  letter-spacing: 0.06em;
+  display: inline-flex;
+  gap: 0.15em;
+  line-height: 1;
+  text-transform: uppercase;
+  font-style: italic;
+}
+.fb-wordmark .logo-word-1 { color: #FFFFFF; }
+.fb-wordmark .logo-word-2 { color: #4CAF50; }
+
+.site-nav {
+  border-bottom: 2px solid #2E7D32;
+  background: rgba(13, 27, 15, 0.94);
+}
+.site-nav .nav-cta {
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 700;
+  font-style: italic;
+  background: #4CAF50;
+  color: #0D1B0F !important;
+  border: none;
+}
+
+/* Hero: motion lines */
+.hero {
+  background:
+    linear-gradient(105deg, rgba(76, 175, 80, 0.08) 0%, transparent 40%),
+    var(--brandBg);
+  position: relative;
+}
+.hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image: repeating-linear-gradient(
+    -15deg,
+    transparent 0px, transparent 60px,
+    rgba(76, 175, 80, 0.04) 60px, rgba(76, 175, 80, 0.04) 62px
+  );
+  pointer-events: none;
+}
+
+.section-label {
+  color: #4CAF50;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 700;
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  font-style: italic;
+}
+.section-label::before { content: '// '; opacity: 0.6; }
+
+h1, h2, h3 {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.01em;
+}
