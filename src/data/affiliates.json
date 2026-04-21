@@ -3,7 +3,7 @@
     "slug": "kilo",
     "name": "Kilo",
     "url": "https://www.kilo.com/",
-    "commission": "30–40% recurring (12-month window — NOT lifetime)",
+    "commission": "30\u201340% recurring (12-month window \u2014 NOT lifetime)",
     "network": "direct",
     "status": "pending",
     "category": "gym-marketing",
@@ -23,7 +23,7 @@
     "slug": "wodify",
     "name": "Wodify",
     "url": "https://www.wodify.com/",
-    "commission": "20% recurring (lifetime — must stay active partner)",
+    "commission": "20% recurring (lifetime \u2014 must stay active partner)",
     "network": "direct",
     "status": "pending",
     "category": "gym-management",
@@ -53,7 +53,7 @@
     "slug": "zenplanner",
     "name": "Zen Planner",
     "url": "https://zenplanner.com/",
-    "commission": "15–20% recurring (lifetime — tiered)",
+    "commission": "15\u201320% recurring (lifetime \u2014 tiered)",
     "network": "direct",
     "status": "pending",
     "category": "gym-management",
@@ -63,7 +63,7 @@
     "slug": "trainerize",
     "name": "Trainerize",
     "url": "https://www.trainerize.com/",
-    "commission": "15% recurring (lifetime — incl. add-ons)",
+    "commission": "15% recurring (lifetime \u2014 incl. add-ons)",
     "network": "direct",
     "status": "pending",
     "category": "personal-training",
@@ -77,16 +77,52 @@
     "network": "direct",
     "status": "pending",
     "category": "gym-management",
-    "notes": "NOT lifetime — typically capped at first 12 months or initial service booked. Apply: https://www.mindbodyonline.com/partners"
+    "notes": "NOT lifetime \u2014 typically capped at first 12 months or initial service booked. Apply: https://www.mindbodyonline.com/partners"
   },
   {
     "slug": "abcfitness",
     "name": "ABC Fitness",
     "url": "https://abcfitness.com/",
-    "commission": "$300–$800 bounty (one-time per location)",
+    "commission": "$300\u2013$800 bounty (one-time per location)",
     "network": "direct",
     "status": "pending",
     "category": "gym-management",
     "notes": "Bounty only, no recurring. One-time payment per new location signup. Apply: https://abcfitness.com/partners"
+  },
+  {
+    "slug": "munch-studio",
+    "name": "Munch Studio",
+    "url": "https://goto.munchstudio.com/B5zEM1",
+    "commission": "Impact affiliate",
+    "network": "impact",
+    "status": "active",
+    "category": "Social Media"
+  },
+  {
+    "slug": "surveysparrow",
+    "name": "SurveySparrow",
+    "url": "https://surveysparrowinc.pxf.io/zzegVO",
+    "commission": "Impact affiliate",
+    "network": "impact",
+    "status": "active",
+    "category": "Customer Feedback"
+  },
+  {
+    "slug": "thrivesparrow",
+    "name": "ThriveSparrow",
+    "url": "https://thrivesparrow.sjv.io/aN54qq",
+    "commission": "Impact affiliate",
+    "network": "impact",
+    "status": "active",
+    "category": "HR & Employee Engagement"
+  },
+  {
+    "slug": "melio",
+    "name": "Melio",
+    "url": "https://melio.sjv.io/bkDbo9",
+    "commission": "Impact affiliate",
+    "network": "impact",
+    "status": "active",
+    "category": "Payments & Billing"
   }
 ]
