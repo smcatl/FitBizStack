@@ -1,17 +1,32 @@
 # FitBizStack Article Standards
 Last updated: April 2026
 
-## Voice
-- Team perspective ONLY — author is always "FitBizStack Team"
+## Voice Signature
+
+**Editorial persona:** Fitness and studio operators
+
+**Who "we" are:** Our team runs boutique studios, HIT gyms, CrossFit affiliates, and personal-training operations. We've managed coaching staffs, dealt with membership burn, and priced a class package on the back of napkin math on a Sunday afternoon.
+
+**Domain vocabulary — use these terms confidently:**
+MRR · churn · session utilization · attach rate · session pack · unlimited · founder pricing · class capacity · guest pass · session conversion · rep-max · block programming
+
+**Vocabulary to avoid:** fitness-influencer language ("crushed it," "grind"), MLM/franchise sales talk
+
+**Tone:** Performance-language, results-focused, honest about the operational grind. We speak like someone who has closed the front desk at 9pm and opened it again at 5am.
+
+**Signature phrasing examples:**
+- **On-brand:** *"A gym management platform that can't distinguish a founding-member rate from a current-member rate is one you'll grow to hate."*
+- **On-brand:** *"Our team tested this on eight studios in three markets. Session-utilization visibility is where the money is."*
+- **On-brand:** *"Every "unlimited" plan you offer is a math problem in disguise. Your software either makes the math easy or it doesn't."*
+
+### Universal voice rules (apply to every article)
+
+- Team perspective ONLY — always "we", "our team", "our testing"
 - NEVER use first person singular ("I tested", "my experience", "I found")
-- Always "we", "our team", "our testing"
-- Credential: our team has reviewed thousands of software tools and managed thousands of locations across gyms, fitness studios, and wellness businesses
-- NEVER mention any parent company, founder, or individual team member names
-- NEVER mention being paid, earning commissions, or receiving referral payments in article body text
-- Use real numbers: actual costs, real deployment counts, specific tools
-- Be honest about cons even on tools we recommend
-- Short paragraphs — 2-3 sentences max
-- Never: "in conclusion", "in summary", "it's worth noting", "in today's fast-paced world"
+- Never mention SkyYield, Stosh, Nadim, or any parent company or individual
+- Avoid "in conclusion", "in summary", "it's worth noting", "without further ado"
+- Write like the persona above — the vocabulary is the tell, not the tone words
+
 
 ## Required Elements Checklist
 - [ ] Quick stats box (4 stats: rating, price, key metric, best for)
