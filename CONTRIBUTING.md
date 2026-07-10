@@ -5,7 +5,7 @@ Quick reference for human teammates. AI agents see [`AGENTS.md`](./AGENTS.md) fo
 ## Getting set up
 
 ```bash
-git clone https://github.com/smcatl/FitBizStack.git
+git clone https://github.com/SkyYield-LLC/FitBizStack.git
 cd fitbizstack
 npm install
 cp .env.example .env.local
